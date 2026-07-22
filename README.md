@@ -67,6 +67,7 @@
 
 | Project | What it does | Stack |
 |---------|--------------|-------|
+| **[artikon-comic-genai](https://github.com/HarisUmer/artikon-comic-genai)** | **Script → comic** Gen-AI with consistent characters: Stable Diffusion + ControlNet + IP-Adapter driven by **LangGraph agents**, behind a Next.js app. | Next.js · SD · LangGraph |
 | **[vedGen](https://github.com/HarisUmer/vedGen)** | Local **anime story-video generator**: premise → keyframes → per-shot image-to-video → stitched film, headless on one 12 GB GPU. | Python · PyTorch · ComfyUI |
 | **[single-image-to-3d](https://github.com/HarisUmer/single-image-to-3d)** | One photo → **3D mesh**: diffusion multi-view synthesis + face refinement + a from-scratch NeRF. | PyTorch · Diffusers · NeRF |
 | **[dreamfusion-from-scratch](https://github.com/HarisUmer/dreamfusion-from-scratch)** | **Text → 3D** from the ground up: NeRF optimized via Score Distillation Sampling. | PyTorch · Diffusers |
@@ -76,6 +77,16 @@
 | **[llm-intake-chatbot](https://github.com/HarisUmer/llm-intake-chatbot)** | Modular **agentic** intake/dispute chatbot. | Gemini · Flask · NLP |
 | **[BlueX-Browser](https://github.com/HarisUmer/BlueX-Browser)** | Privacy-focused **Flutter** mobile browser: proxy, ad-block, voice search. | Flutter · Dart · Firebase |
 | **[Sortsy](https://github.com/HarisUmer/sortsy)** ↗ [sortsy.ai](https://sortsy.ai) | **AI file organizer** I contributed to at CoalDev (case study). | Next.js · Node · PySide6 · LLM |
+
+### 🧪 More on my profile
+
+| Project | What it does |
+|---------|--------------|
+| **[Custom Clothing Painting API](https://github.com/HarisUmer/Customization_Shirts_API)** | FastAPI + Stable Diffusion inpainting that paints AI artwork onto shirts/hoodies from an image + mask + prompt. |
+| **[1st_Rag](https://github.com/HarisUmer/1st_Rag)** | RAG with **BERT-based semantic chunking** (KMeans) over Word/PDF/news docs. |
+| **[Studify](https://github.com/HarisUmer/Studify)** | Real-time **hand-gesture recognition** Android app (CameraX). |
+| **[CV](https://github.com/HarisUmer/CV)** | Config-driven **portfolio site** (React · TS · Vite · Tailwind). |
+| **[Assembly-Car-Game](https://github.com/HarisUmer/Assembly-Car-Game)** | Retro car game in **pure x86 Assembly** on an 80×80 pixel screen. |
 
 <sub>Plus production web builds ([Hashim Traders](https://github.com/HarisUmer/Hashim_Traders) · [Hybrid Care](https://github.com/HarisUmer/Hybrid_Care)). Some CoalDev product work is private.</sub>
 
