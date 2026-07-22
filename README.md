@@ -1,0 +1,102 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,100:2563eb&height=200&section=header&text=M.%20Haris%20Umer&fontColor=ffffff&fontSize=48&fontAlignY=36&desc=AI%20%2F%20Full-Stack%20Engineer%20%C2%B7%20building%20intelligent%20products&descAlignY=58&descSize=18" alt="banner" />
+
+<a href="https://github.com/HarisUmer">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6D28D9&center=true&vCenter=true&width=650&lines=AI+%2F+Full-Stack+Engineer;LLMs%2C+Computer+Vision+%26+Generative+AI;Next.js+%C2%B7+FastAPI+%C2%B7+Flutter+%C2%B7+PyTorch;I+ship+products%2C+not+just+demos." alt="typing" />
+</a>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=HarisUmer&label=Profile%20views&color=6d28d9&style=flat" alt="views" />
+</p>
+
+</div>
+
+---
+
+### 👋 About me
+
+- 🧠 I build **AI-powered products** — from generative-AI pipelines to computer-vision systems and full-stack web apps.
+- 💼 I work as **[@HarisUmerCoalDev](https://github.com/HarisUmerCoalDev)** at **CoalDev Company**, where I develop AI products end-to-end.
+- 🛠️ I like turning research (diffusion models, NeRF/3D, LLM agents) into things people can actually **run and use**.
+- 🌱 Currently going deeper on **generative video, agentic workflows, and on-device / local AI**.
+- 📫 Reach me: **harisumer58@gmail.com**
+
+> Note: some of my work at **CoalDev Company** (e.g. trading systems and the *Sortsy* product) is proprietary and lives in private/company repositories, so it isn't shown here.
+
+---
+
+### 🧰 Tech stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+**AI / ML**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+
+**Frameworks & Web**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Data & Infra**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 🚀 Featured projects
+
+| Project | What it does | Stack |
+|---------|--------------|-------|
+| **[vedGen](https://github.com/HarisUmer/vedGen)** | Local **anime story-video generator**: premise → storyboard keyframes → per-shot image-to-video → stitched film. Runs a diffusion + Wan I2V pipeline headless on a single 12 GB GPU. | Python · PyTorch · ComfyUI · ffmpeg |
+| **[Hashim Traders](https://github.com/HarisUmer/Hashim_Traders)** | Production marketing site for a hybrid-battery business. | React · TypeScript · Vite · Tailwind · Framer Motion |
+| **[Hybrid Care](https://github.com/HarisUmer/Hybrid_Care)** | Multi-business variant of the Hashim Traders platform. | React · TypeScript · Vite · Tailwind |
+
+<sub>More projects across generative 3D, computer-vision tracking, and LLM automation are in the works / private.</sub>
+
+---
+
+### 📊 GitHub stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=HarisUmer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarisUmer&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HarisUmer&theme=tokyonight&hide_border=true" alt="streak" />
+
+</div>
+
+---
+
+### 🤝 Connect
+
+<div align="center">
+
+<a href="mailto:harisumer58@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
+<a href="https://github.com/HarisUmer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
+
+</div>
+
+<div align="center"><sub>✨ Thanks for stopping by — feel free to explore the repos and reach out.</sub></div>
