@@ -67,11 +67,17 @@
 
 | Project | What it does | Stack |
 |---------|--------------|-------|
-| **[vedGen](https://github.com/HarisUmer/vedGen)** | Local **anime story-video generator**: premise → storyboard keyframes → per-shot image-to-video → stitched film. Runs a diffusion + Wan I2V pipeline headless on a single 12 GB GPU. | Python · PyTorch · ComfyUI · ffmpeg |
-| **[Hashim Traders](https://github.com/HarisUmer/Hashim_Traders)** | Production marketing site for a hybrid-battery business. | React · TypeScript · Vite · Tailwind · Framer Motion |
-| **[Hybrid Care](https://github.com/HarisUmer/Hybrid_Care)** | Multi-business variant of the Hashim Traders platform. | React · TypeScript · Vite · Tailwind |
+| **[vedGen](https://github.com/HarisUmer/vedGen)** | Local **anime story-video generator**: premise → keyframes → per-shot image-to-video → stitched film, headless on one 12 GB GPU. | Python · PyTorch · ComfyUI |
+| **[single-image-to-3d](https://github.com/HarisUmer/single-image-to-3d)** | One photo → **3D mesh**: diffusion multi-view synthesis + face refinement + a from-scratch NeRF. | PyTorch · Diffusers · NeRF |
+| **[dreamfusion-from-scratch](https://github.com/HarisUmer/dreamfusion-from-scratch)** | **Text → 3D** from the ground up: NeRF optimized via Score Distillation Sampling. | PyTorch · Diffusers |
+| **[trading-engine-redis-architecture](https://github.com/HarisUmer/trading-engine-redis-architecture)** | Distributed **manager/worker** coordination for a real-time trading system. | Redis · Celery · Python |
+| **[airport-queue-analytics](https://github.com/HarisUmer/airport-queue-analytics)** | **Computer-vision** passenger queue analytics: YOLO + ByteTrack + ground-plane grid. | OpenCV · YOLO · ByteTrack |
+| **[aircraft-quote-automation](https://github.com/HarisUmer/aircraft-quote-automation)** | **LLM automation**: Gmail → quote extraction → supplier ranking → Google Sheets. | Python · OpenAI/Anthropic |
+| **[llm-intake-chatbot](https://github.com/HarisUmer/llm-intake-chatbot)** | Modular **agentic** intake/dispute chatbot. | Gemini · Flask · NLP |
+| **[BlueX-Browser](https://github.com/HarisUmer/BlueX-Browser)** | Privacy-focused **Flutter** mobile browser: proxy, ad-block, voice search. | Flutter · Dart · Firebase |
+| **[Sortsy](https://github.com/HarisUmer/sortsy)** ↗ [sortsy.ai](https://sortsy.ai) | **AI file organizer** I contributed to at CoalDev (case study). | Next.js · Node · PySide6 · LLM |
 
-<sub>More projects across generative 3D, computer-vision tracking, and LLM automation are in the works / private.</sub>
+<sub>Plus production web builds ([Hashim Traders](https://github.com/HarisUmer/Hashim_Traders) · [Hybrid Care](https://github.com/HarisUmer/Hybrid_Care)). Some CoalDev product work is private.</sub>
 
 ---
 
