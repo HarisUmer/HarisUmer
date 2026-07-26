@@ -82,6 +82,7 @@
 
 | Project | What it does |
 |---------|--------------|
+| **[LC Habit](https://github.com/HarisUmer/leetcode_habit)** | Windows **desktop habit trainer** for daily LeetCode: local problem bank, real-account Easy/Medium/Hard sync via Firefox, and a **game-lock** nudge when you go idle. Low-RAM, no tray daemon (Python · Tkinter · SQLite). |
 | **[Custom Clothing Painting API](https://github.com/HarisUmer/Customization_Shirts_API)** | FastAPI + Stable Diffusion inpainting that paints AI artwork onto shirts/hoodies from an image + mask + prompt. |
 | **[1st_Rag](https://github.com/HarisUmer/1st_Rag)** | RAG with **BERT-based semantic chunking** (KMeans) over Word/PDF/news docs. |
 | **[Studify](https://github.com/HarisUmer/Studify)** | Real-time **hand-gesture recognition** Android app (CameraX). |
