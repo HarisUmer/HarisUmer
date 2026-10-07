@@ -70,14 +70,18 @@
 
 ### 🚀 Featured projects
 
+<a href="https://github.com/HarisUmer/aniga">
+  <img src="https://raw.githubusercontent.com/HarisUmer/HarisUmer/main/assets/aniga-web-shelf.jpg" alt="Aniga shelf: tonight's three picks on a manga page" width="100%" />
+</a>
+
 <table>
   <tr>
-    <td width="42%" valign="top">
+    <td width="28%" valign="top">
       <a href="https://github.com/HarisUmer/aniga">
-        <img src="https://raw.githubusercontent.com/HarisUmer/aniga/master/learning/assets/android-home.png" alt="Aniga home shelf" width="100%" />
+        <img src="https://raw.githubusercontent.com/HarisUmer/HarisUmer/main/assets/aniga-home.jpg" alt="Aniga on a phone" width="100%" />
       </a>
     </td>
-    <td width="58%" valign="top">
+    <td width="72%" valign="top">
       <h3><a href="https://github.com/HarisUmer/aniga">Aniga</a></h3>
       <p>A personal shelf for <strong>anime, manga, manhwa, and manhua</strong>. Ratings train what to read next. The phone opens the chapter, Library notices when a new one is out, and a link shares your taste as a report a friend can open.</p>
       <p>
@@ -89,8 +93,9 @@
       <p>
         <a href="https://github.com/HarisUmer/aniga"><strong>Open the repo →</strong></a>
       </p>
-      <img src="https://raw.githubusercontent.com/HarisUmer/aniga/master/learning/assets/android-reader-sepia.png" alt="Aniga reader" width="46%" />
-      <img src="https://raw.githubusercontent.com/HarisUmer/aniga/master/learning/assets/android-foryou.png" alt="Aniga For You" width="46%" />
+      <img src="https://raw.githubusercontent.com/HarisUmer/HarisUmer/main/assets/aniga-reader.jpg" alt="Aniga reader" width="30%" />
+      <img src="https://raw.githubusercontent.com/HarisUmer/HarisUmer/main/assets/aniga-foryou.jpg" alt="Aniga For You" width="30%" />
+      <img src="https://raw.githubusercontent.com/HarisUmer/HarisUmer/main/assets/aniga-discover.jpg" alt="Aniga Discover" width="30%" />
     </td>
   </tr>
 </table>
