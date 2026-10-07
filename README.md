@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,100:2563eb&height=200&section=header&text=M.%20Haris%20Umer&fontColor=ffffff&fontSize=48&fontAlignY=36&desc=AI%20%2F%20Full-Stack%20Engineer%20%C2%B7%20building%20intelligent%20products&descAlignY=58&descSize=18" alt="banner" />
 
 <a href="https://github.com/HarisUmer">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6D28D9&center=true&vCenter=true&width=650&lines=AI+%2F+Full-Stack+Engineer;LLMs%2C+Computer+Vision+%26+Generative+AI;Next.js+%C2%B7+FastAPI+%C2%B7+Flutter+%C2%B7+PyTorch;I+ship+products%2C+not+just+demos." alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6D28D9&center=true&vCenter=true&width=720&lines=AI+%2F+Full-Stack+Engineer;Aniga+%E2%80%94+a+shelf+that+learns+your+taste;LLMs%2C+Computer+Vision+%26+Generative+AI;Android+%C2%B7+Spring+%C2%B7+Next.js+%C2%B7+PyTorch" alt="typing" />
 </a>
 
 <p>
@@ -20,6 +20,7 @@
 - 💼 I work as **[@HarisUmerCoalDev](https://github.com/HarisUmerCoalDev)** at **CoalDev Company**, where I develop AI products end-to-end.
 - 🛠️ I like turning research (diffusion models, NeRF/3D, LLM agents) into things people can actually **run and use**.
 - 🌱 Currently going deeper on **generative video, agentic workflows, and on-device / local AI**.
+- 📚 Building **[Aniga](https://github.com/HarisUmer/aniga)** — a shelf for anime, manga, and manhwa that learns what you would finish, then lets you share that taste with a friend.
 - 📫 Reach me: **harisumer58@gmail.com**
 
 > Note: some of my work at **CoalDev Company** (e.g. trading systems and the *Sortsy* product) is proprietary and lives in private/company repositories, so it isn't shown here.
@@ -35,6 +36,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 **AI / ML**
 
@@ -51,6 +54,8 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 **Data & Infra**
@@ -65,8 +70,34 @@
 
 ### 🚀 Featured projects
 
+<table>
+  <tr>
+    <td width="42%" valign="top">
+      <a href="https://github.com/HarisUmer/aniga">
+        <img src="https://raw.githubusercontent.com/HarisUmer/aniga/master/learning/assets/android-home.png" alt="Aniga home shelf" width="100%" />
+      </a>
+    </td>
+    <td width="58%" valign="top">
+      <h3><a href="https://github.com/HarisUmer/aniga">Aniga</a></h3>
+      <p>A personal shelf for <strong>anime, manga, manhwa, and manhua</strong>. Ratings train what to read next. The phone opens the chapter, Library notices when a new one is out, and a link shares your taste as a report a friend can open.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Boot" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+      </p>
+      <p>
+        <a href="https://github.com/HarisUmer/aniga"><strong>Open the repo →</strong></a>
+      </p>
+      <img src="https://raw.githubusercontent.com/HarisUmer/aniga/master/learning/assets/android-reader-sepia.png" alt="Aniga reader" width="46%" />
+      <img src="https://raw.githubusercontent.com/HarisUmer/aniga/master/learning/assets/android-foryou.png" alt="Aniga For You" width="46%" />
+    </td>
+  </tr>
+</table>
+
 | Project | What it does | Stack |
 |---------|--------------|-------|
+| **[Aniga](https://github.com/HarisUmer/aniga)** | Personal **anime / manga / manhwa** shelf: a recommender, an in-app reader, library updates, and a shareable taste report. | Android · Spring Boot · PostgreSQL |
 | **[artikon-comic-genai](https://github.com/HarisUmer/artikon-comic-genai)** | **Script → comic** Gen-AI with consistent characters: Stable Diffusion + ControlNet + IP-Adapter driven by **LangGraph agents**, behind a Next.js app. | Next.js · SD · LangGraph |
 | **[vedGen](https://github.com/HarisUmer/vedGen)** | Local **anime story-video generator**: premise → keyframes → per-shot image-to-video → stitched film, headless on one 12 GB GPU. | Python · PyTorch · ComfyUI |
 | **[single-image-to-3d](https://github.com/HarisUmer/single-image-to-3d)** | One photo → **3D mesh**: diffusion multi-view synthesis + face refinement + a from-scratch NeRF. | PyTorch · Diffusers · NeRF |
